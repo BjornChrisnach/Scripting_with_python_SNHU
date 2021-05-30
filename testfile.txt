@@ -1,0 +1,4 @@
+Hello world, this is line number 1.
+This is line number two.
+This is line number three.
+Now I have four lines in this file.

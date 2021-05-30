@@ -1,3 +1,4 @@
+# "Exercices chapter 2"
 width = 17
 height = 12
 

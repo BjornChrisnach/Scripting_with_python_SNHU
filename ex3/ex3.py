@@ -1,4 +1,4 @@
-"Second project of the edx course"
+# "Exercices chapter 2"
 hours = float(input("Type in your work hours :"))
 rate = float(input("Type in your hourly rate :"))
 pay = hours * rate
